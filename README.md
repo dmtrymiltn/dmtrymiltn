@@ -6,8 +6,8 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://github-readme-stats.vercel.app/api?username=dmtrymiltn&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=dmtrymiltn&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github.com/dmtrymiltn/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtrymiltn&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -18,13 +18,13 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:dmitry.miluytin@bk.ru'>dmitry.miluytin@bk.ru</a>
 </p>
 
 
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/dmtrymiltn) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   creator and author of [dmtrymiltn](https://t.me/dmtrymiltn) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
